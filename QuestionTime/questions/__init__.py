@@ -1,0 +1,1 @@
+default_app_sonfig = "questions.app.QuestionsConfig"
